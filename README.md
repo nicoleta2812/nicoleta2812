@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 Here are some ideas to get you started:-->
-<h1 align="center">Hi there, I am Nicoleta Barbacaru👋</h1>
+Hi there, I am Nicoleta Barbacaru👋
 - 🔭 I’m currently working on JavaScript Challenges,Web Development, Programming, Data Structures and Algorithms
 - 🌱 I’m currently learning Wed Development
 - 👯 I’m looking to collaborate with experienced developers who can guide me in my journey into tech.
